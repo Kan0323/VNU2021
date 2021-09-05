@@ -4,12 +4,11 @@
 
 電路圖
 
-![1](https://user-images.githubusercontent.com/89326999/132112032-4d29b000-798f-4e55-9bd1-39cd20377e19.png)
+![1](https://user-images.githubusercontent.com/89326999/132112249-9c495fc8-d7b3-4a8f-afe9-e1046ccab0a8.png)
 
 程式
 
-![2](https://user-images.githubusercontent.com/89326999/132112037-72e71dd6-d8f6-4297-b5fb-012aaafa1614.png)
-
+![2](https://user-images.githubusercontent.com/89326999/132112243-888eeb3a-245f-45b8-b176-945d9004e9eb.png)
 
 
 #1-2
