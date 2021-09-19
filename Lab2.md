@@ -53,3 +53,9 @@ ____
 ____
 
 電路:
+
+![2-5](https://user-images.githubusercontent.com/89326999/133913527-3333443d-a6b5-40af-89d1-40ebe850d279.png)
+
+程式:
+
+![2-5-2](https://user-images.githubusercontent.com/89326999/133913531-b4e23ae8-396d-43ea-a5d2-9a88a80c09b4.png)
