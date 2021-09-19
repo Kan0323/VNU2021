@@ -22,3 +22,34 @@ _____
 
 ![2-2-2](https://user-images.githubusercontent.com/89326999/132969209-9f69079e-7df5-4078-b482-afc463bb6c62.png)
 
+----
+實作2-3, 讓你的RGB LED燈全彩模組也可會"呼吸", LED顏色變化是否有像"呼吸的效果"和示波器的波形有什麼關連性? (互動3), (2021-09-12)
+____
+電路:
+
+![2-3](https://user-images.githubusercontent.com/89326999/133912971-01b23176-471f-4221-9223-1448ca4e8d89.png)
+
+
+程式:
+
+![2-3-2](https://user-images.githubusercontent.com/89326999/133912983-f32506e5-b8e5-4ca7-b89f-46da4a6961ea.png)
+
+----
+實作2-4 analogRead(), 1024解析度 (i.e.,10-bit): 可變電阻 + 序列監視器與輸出; 當你改變可變電阻的阻值(e.g., 10K-ohm)時，序列監視器輸出的數值有什麼改變? 數值又有什麼意義呢? 可試將你的想法寫在你的GitHub Page中喔! (互動4) (2021-09-12)
+____
+電路:
+
+![4-2-1](https://user-images.githubusercontent.com/89326999/133913302-786b686a-c8b7-4637-a52e-16d9b1b85503.png)
+
+
+![2-4](https://user-images.githubusercontent.com/89326999/133913260-ca828b5f-c36f-4c11-9482-ddfc3ab04817.png)
+
+程式:
+
+![2-4-2](https://user-images.githubusercontent.com/89326999/133913267-51ac70d9-ed0a-496c-aa27-5e919ab932bb.png)
+
+----
+實作2-5: 按下按鍵, Green LED亮 & Red LED滅; 放開按鍵, Green LED滅 & Red LED亮. 想要再深入的同學可以試試喔. (思考方向: digitalRead(), digitalWrite(): 按鍵 +序列輸出 + LED), (互動5) (2021-09-19) 
+____
+
+電路:
