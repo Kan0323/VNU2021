@@ -1,1 +1,12 @@
+____
+實作 3-1: Ultrasonic Sensor (3-pin) + 測距 (以公分顯示即可) + RS232 Output,
+----
+電路:
 
+![3-1](https://user-images.githubusercontent.com/89326999/134790724-2584ba6c-94b0-4692-aaa6-584fdba35e99.png)
+
+
+程式:
+
+![3-1-2](https://user-images.githubusercontent.com/89326999/134790734-b5ff8598-589b-49fd-9959-2fa9e07a747b.png)
+____
