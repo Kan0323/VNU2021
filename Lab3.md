@@ -10,7 +10,7 @@ ____
 
 ![3-1-2](https://user-images.githubusercontent.com/89326999/134790734-b5ff8598-589b-49fd-9959-2fa9e07a747b.png)
 ____
-Lab 3-2: 超音波感測器 + LED (紅色LED:亮<70cm, 緑色LED: 亮<270cm, 藍色LED:亮, 介於70cm ~ 270cm之間) + RS232 Output
+實作 3-2: 超音波感測器 + LED (紅色LED:亮<70cm, 緑色LED: 亮<270cm, 藍色LED:亮, 介於70cm ~ 270cm之間) + RS232 Output
 ----
 電路:
 
@@ -21,7 +21,7 @@ Lab 3-2: 超音波感測器 + LED (紅色LED:亮<70cm, 緑色LED: 亮<270cm, 藍
 
 ![3-2-2](https://user-images.githubusercontent.com/89326999/138237995-cf73fe5b-01cf-4567-b19c-57edb0d47f98.png)
 ____
-請使用Arudino, 通過Serial印出9X9乘法表, 計算時亮紅色LED, 綠色LED慢慢變亮亮完成時全亮, 並且紅色LED OFF, 細節可參考以下Demo作法:
+實作 3-3:請使用Arudino, 通過Serial印出9X9乘法表, 計算時亮紅色LED, 綠色LED慢慢變亮亮完成時全亮, 並且紅色LED OFF, 細節可參考以下Demo作法:
 ----
 電路:
 
