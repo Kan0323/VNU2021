@@ -31,3 +31,22 @@ ____
 程式:
 
 ![4-3-2](https://user-images.githubusercontent.com/89326999/138241453-f0bf2ac3-e754-4f68-b855-7db74148355e.png)
+
+----
+### Lab 4-4 整合超音波感測器 + LCD: 參考之前的實作, 完成以下任務:
+
+1. **將超音波感測器傳回的距離, 在LCD上面顯示,** 
+2. **同時也和之前的實作一樣, 在序列輸出.** 
+3. **另外, 當物體的距離小於150cm時, 則亮紅色LED, 否則亮綠色LED**
+____
+電路:
+
+![4-4](https://user-images.githubusercontent.com/89326999/138250724-e9ccc737-314f-47bc-9f8f-026b5cf0bb31.png)
+
+程式:
+
+![4-4-2](https://user-images.githubusercontent.com/89326999/138250866-b38114e0-108b-4d24-a32f-427874bef9de.png)
+
+
+
+
