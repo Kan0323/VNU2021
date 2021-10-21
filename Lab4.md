@@ -20,3 +20,14 @@ ____
 程式:
 
 ![4-2-2](https://user-images.githubusercontent.com/89326999/137607718-5c7fcc1c-0092-4983-9f27-307ce588d94a.png)
+
+----
+Lab 4-3 LCD顯示"Hello" + 你的英文名字
+____
+電路:
+
+![4-3](https://user-images.githubusercontent.com/89326999/138241402-9d191ec8-4ce7-442c-8146-2a7f749b84d6.png)
+
+程式:
+
+![4-3-2](https://user-images.githubusercontent.com/89326999/138241453-f0bf2ac3-e754-4f68-b855-7db74148355e.png)
