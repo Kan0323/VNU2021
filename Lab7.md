@@ -17,3 +17,8 @@ Lab 7-2 暖身: 一起來十分鐘學會Python
 
 ![7-2-1](https://user-images.githubusercontent.com/89326999/140630208-554c3b6e-7152-48e6-a8e0-524e23789950.png)
 
+____
+Lab 7-3 確認Lab7完成的兩個Notebook都成功的存在你的雲端硬碟/ES2021目錄下
+----
+
+![7-3](https://user-images.githubusercontent.com/89326999/140630305-08a5ac01-caf1-4d1a-9d95-f940f9ff5a22.png)
