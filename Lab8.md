@@ -3,3 +3,15 @@ ____
 ----
 
 ![8-1](https://user-images.githubusercontent.com/89326999/141665199-91bde92e-4853-4a60-ac1d-7ea8bd881fbd.png)
+
+____
+Lab 8-1 零基礎Python快速入門與實作, 1/2, W13
+----
+
+![8-1](https://user-images.githubusercontent.com/89326999/142746619-f70812da-1c9c-4bde-a1cc-76cc7e5250d5.png)
+
+____
+Lab 8-2 零基礎Python快速入門與實作, 2/2, W14
+-----
+
+![8-2](https://user-images.githubusercontent.com/89326999/142746664-15037f5a-f3b7-427e-aa68-020fcbad53e6.png)
