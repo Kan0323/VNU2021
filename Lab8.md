@@ -15,3 +15,9 @@ Lab 8-2 零基礎Python快速入門與實作, 2/2, W14
 -----
 
 ![8-2](https://user-images.githubusercontent.com/89326999/142746664-15037f5a-f3b7-427e-aa68-020fcbad53e6.png)
+
+____
+Lab 8-3 建立新的Colab Notebook (e.g., Filename: ShowPhoto.ipynb), 用Python來Show一下圖像, 完成後並更新到GitHub
+----
+
+![8-3](https://user-images.githubusercontent.com/89326999/142747302-f8081708-1654-44fe-8b57-f6a6e22eb394.png)
