@@ -15,3 +15,9 @@ ____
 ----
 
 ![9-1C](https://user-images.githubusercontent.com/89326999/143725987-0d23dee5-27a9-498d-bd0f-66bcbb7d5e1d.png)
+
+____
+實作D (Optional): 從網路上找一張自己喜歡的照片來試試看 (jpg/png)
+----
+
+![9-1D](https://user-images.githubusercontent.com/89326999/143726097-75eb53dc-7d49-44e4-8a95-20ed93a89d98.png)
