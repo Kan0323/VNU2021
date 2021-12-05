@@ -22,3 +22,12 @@ Lab 10-2 OpenCV電腦視覺入門
 結果:
 
 ![10-2-2](https://user-images.githubusercontent.com/89326999/144730696-a8eeba7f-32ca-43c5-8b7c-c5af4f7f40d4.png)
+
+
+____
+Lab 10-3 人臉辨識實際應用
+----
+
+結果:
+
+![10-3-2](https://user-images.githubusercontent.com/89326999/144731368-88bb805b-6071-4ee2-9971-f44bc3fe7e98.png)
