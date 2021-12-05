@@ -9,3 +9,16 @@ Lab 10-1: 虛擬人臉數據取得
 結果:
 
 ![10-1](https://user-images.githubusercontent.com/89326999/144730396-d10ff18d-7614-4fc5-9ccf-6c0e1a3dcf12.png)
+
+____
+Lab 10-2 OpenCV電腦視覺入門
+----
+
+參考程式:
+
+![10-2](https://user-images.githubusercontent.com/89326999/144730692-bd6b1ada-1ce6-459d-baec-d0c0c2ed7ea2.png)
+
+
+結果:
+
+![10-2-2](https://user-images.githubusercontent.com/89326999/144730696-a8eeba7f-32ca-43c5-8b7c-c5af4f7f40d4.png)
