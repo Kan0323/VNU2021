@@ -1,1 +1,18 @@
+____
+Lab 6-1 用16X2 LCD 顯示器來顯示4X4鍵盤輸入的數字 (0, 1, 2, .., 9), 若輸入的字數≥16則換到下一列, 若兩皆滿, 則清除劃面重新由Row=0, Col=0開始, 細節請參考以下Demo.
+----
+電路:
 
+![6-1](https://user-images.githubusercontent.com/89326999/145576250-9d8f2844-643d-46dd-b05e-aa18f45f0ba5.png)
+
+程式:
+
+![6-1-2](https://user-images.githubusercontent.com/89326999/145576279-a6e85f5a-d183-4f00-a43a-162048118050.png)
+
+____
+Lab 6-2 分享一個你最喜歡的實作 (電路即可)到你的GitHub
+----
+
+電路:
+
+![4-3](https://user-images.githubusercontent.com/89326999/145576576-743bb57f-5b98-49b0-a93c-11d69529782c.png)
