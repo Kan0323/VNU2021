@@ -1,3 +1,4 @@
+###Lab 9-1 AI應用起手式: 使用 TensorFlow Hub 進行圖像分類
 ____
 實作A:  Python自動翻譯功能Module測試
 ----
